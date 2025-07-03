@@ -30,12 +30,6 @@
 
 ---
 
-## 📸 Screenshot
-
-<img src="https://your-screenshot-link.png" alt="Game Screenshot" width="600"/>
-
----
-
 ## 🙌 Author
 
 - 👨‍💻 [Ziad Mahmoud](https://github.com/ziadmahmoudas)
