@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-green?style=for-the-badge&logo=github" alt="Status Badge"/>
-</p>
 
 ---
 
